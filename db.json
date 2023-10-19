@@ -1,12 +1,7 @@
 {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
+"cardHolderName": "ali ahmad",
+"cardNumber": 1114 1123 1122 1234,
+"cardExpiry": 12/27,
+"cardCCV": 223,
+"cardCompany": "Master Card",   
+}
